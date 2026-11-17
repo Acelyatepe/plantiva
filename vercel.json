@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build:vercel",
+  "outputDirectory": "vercel-dist",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}

@@ -1,0 +1,6 @@
+dist
+vercel-dist
+node_modules
+artifacts
+public/products
+public/images/products/*.png
